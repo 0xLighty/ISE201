@@ -7,4 +7,4 @@ There are 3 version of Final Report in this repository.
           
 ![Image](https://github.com/0xLighty/ISE201/blob/main/To%20download%20zip%20file.png?raw=true)
           
-2. Document & PDF : Cna be downloaded easily.
+2. Document & PDF : Can be downloaded easily.
